@@ -125,7 +125,7 @@ class Helper(Element):
 class Form(QtWidgets.QWidget):
     def __init__(self, parent=None):
         super(Form, self).__init__(parent)
-        self.setWindowTitle("test")
+        self.setWindowTitle("Scrappr")
         self.setMinimumSize(320, 240)
         self.resize(640, 480)
 
