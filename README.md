@@ -28,6 +28,9 @@ Here's what it looks like:
 *   BeautifulSoup
 *   PySide2
 *   Pandas
+*   Jinja2
+
+(The code is using JS to prevent redirects to another page)
 
 ### How to contribute
 
